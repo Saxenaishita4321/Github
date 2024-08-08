@@ -1,0 +1,26 @@
+a:link{
+        color: darkviolet;
+}
+a:visited{
+    color:red;
+}
+a:hover{
+    color: darkgreen;
+}
+a:active{
+    color: darkmagenta;
+}
+p{
+    font-size: large;
+    font-weight: 600;
+    text-decoration: underline;
+}
+h1{
+   text-decoration: underline;
+    border-top: 8px dotted green;
+}
+
+img{
+    border: 2px solid goldenrod;
+    padding: 40px;
+}
